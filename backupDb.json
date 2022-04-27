@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "pierwszy post",
+      "author": "Filip 1"
+    },
+    {
+      "id": 2,
+      "title": "drugi post",
+      "author": "Filip 2"
+    },
+	{
+      "id": 3,
+      "title": "trzeci post",
+      "author": "Filip 3"
+    },
+    {
+      "id": 4,
+      "title": "czwarty post",
+      "author": "Filip 4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postid": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
